@@ -42,6 +42,39 @@ It was built using **Tableau** for data visualization and **Excel** for data pre
 ## 🖼️ Dashboard Preview
 ![dashboard_project_porto_page-0001](https://github.com/user-attachments/assets/4fd56f36-a3e5-487d-bd93-30efd3886632)
 
+## 🧭 Insight Focus
+
+### 📈 Page 1 – Financial View (Budget Realization & Trends)
+
+**Pyramid Principle Flow:** *Situation → Complication → Resolution*
+
+**Situation (what the Board already knows):**  
+The refinery expansion program had a planned annual investment of **$900M** for 2024.  
+Actual realization by **November** was **$800M (~88.9%)**. On paper, the project is still under budget.
+
+**Complication (what the Board might not see immediately):**
+- Investment realization was uneven across quarters:  
+  - **Q1:** 80% (under target due to procurement delays)  
+  - **Q2:** 90% (progress stabilized)  
+  - **Q3:** 76% (land acquisition stalled civil works)  
+  - **Q4:** 103% (overshoot driven by EPC acceleration)
+- This pattern shows early under-spending followed by a backloaded catch-up surge, which introduces risks:
+  - **Execution pressure:** compressing activities into late quarters  
+  - **Cost inefficiency:** Q4 overshoot (+3.3%) came with higher costs (overtime, premium contracts)  
+  - **Thin margin:** only **11% of budget** remains to cover final stages  
+
+**Resolution (what this means):**  
+Financially, the project is not yet over budget, but the spending profile reveals **structural risk**.  
+Early underutilization forced a late sprint that consumed flexibility.  
+Without stricter cost governance, acceleration may erode the budget buffer during installation and commissioning.
+
+**Narrative for the Board:**  
+> “Financially, the project looks under control at **89% realization**, but the story behind the numbers matters.  
+> Under-spend in Q1 and Q3 created a backlog that had to be recovered in Q4 with costly EPC acceleration.  
+> This left only **11% of budget** available heading into final commissioning.  
+> In short, we are under budget, but we are also under pressure — cost governance will be critical if we want to finish without overruns.”
+
+---
 ![dashboard_project_porto_page-0002](https://github.com/user-attachments/assets/da05fa18-4a5a-417d-b2d8-6ed7ace0009a)
 
 ![dashboard_project_porto_page-0003](https://github.com/user-attachments/assets/0f45402f-ff8b-426f-8f9e-9069edc8a4b9)
