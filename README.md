@@ -182,6 +182,7 @@ Without disciplined sequencing and QA/QC enforcement, acceleration could trade s
 - Demonstrated the integration of **project controls** and **business intelligence** for infrastructure investments.  
 
 ---
+👤 Connect with me on LinkedIn: [**Rahardian Gusta Patria**](https://www.linkedin.com/in/rahardian-g-patria-mba-762208b3/)
 💡 I am #OpenToWork — always open to collaborations and opportunities in Data Analysis, BI, and Data Visualization. Feel free to connect and reach out!
 
 ## 📬 Contact
