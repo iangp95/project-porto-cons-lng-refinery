@@ -1,9 +1,9 @@
-# 🏗️ LNG Refinery Construction Performance Dashboard
+# 🏗️ LNG Refinery Construction Performance Dashboard (Excel+Tableau)
 
 **Developer:** Rahardian G. Patria  
 **Tools:** Tableau | Excel  
 **Domain:** Infrastructure & Energy Projects  
-**Project Timeline:** Feb 2024 – Feb 2025  
+**Type of Data:** Case Study/Sample data  
 
 ---
 
@@ -50,10 +50,8 @@ It was built using **Tableau** for data visualization and **Excel** for data pre
 ## 📁 Repository Contents
 | File | Description |
 |------|--------------|
-| `dashboard_project_porto.pdf` | Full Tableau dashboard (PDF export) |
-| `cff006bc-09d8-434f-9102-cc9200981354.png` | Dashboard preview image |
-| *(optional)* `.twbx` | Packaged Tableau workbook (if uploaded) |
-| `data/` | Example dataset (if included) |
+| `Case Study.xls` | Datasets in Excel |
+| `dashboard_project_porto.twb` | Dashboard in Tableau |
 
 ---
 
@@ -71,6 +69,7 @@ It was built using **Tableau** for data visualization and **Excel** for data pre
 - Demonstrated the integration of **project controls** and **business intelligence** for infrastructure investments.  
 
 ---
+💡 I am #OpenToWork — always open to collaborations and opportunities in Data Analysis, BI, and Data Visualization. Feel free to connect and reach out!
 
 ## 📬 Contact
 **Rahardian G. Patria**  
