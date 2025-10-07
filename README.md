@@ -40,10 +40,13 @@ It was built using **Tableau** for data visualization and **Excel** for data pre
 ---
 
 ## 🖼️ Dashboard Preview
-![Dashboard Preview](cff006bc-09d8-434f-9102-cc9200981354.png)
+![dashboard_project_porto_page-0001](https://github.com/user-attachments/assets/4fd56f36-a3e5-487d-bd93-30efd3886632)
+
+![dashboard_project_porto_page-0002](https://github.com/user-attachments/assets/da05fa18-4a5a-417d-b2d8-6ed7ace0009a)
+
+![dashboard_project_porto_page-0003](https://github.com/user-attachments/assets/0f45402f-ff8b-426f-8f9e-9069edc8a4b9)
 
 ---
-
 ## 📁 Repository Contents
 | File | Description |
 |------|--------------|
