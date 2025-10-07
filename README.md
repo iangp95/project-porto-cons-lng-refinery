@@ -22,6 +22,61 @@ It was built using **Tableau** for data visualization and **Excel** for data pre
 - Provide **board-level recommendations** to ensure completion under budget  
 
 ---
+## 🎯 Dashboard Design Targets
+
+This dashboard was structured across **three analytical pages** — Financial and Execution — to help project stakeholders monitor both budget utilization and schedule performance in real time.
+
+---
+
+### 📊 Dashboard Page 1 – Financial View
+
+#### **KPI Overview**
+- Display a summary of **budget consumed** and percentage utilization.  
+- Provide a quick visual cue for **total planned vs actual investment**.
+
+#### **Budget Consumption Trends**
+- Present both **quarterly** and **monthly** consumption trends for the fiscal year.  
+- Identify **months with the highest and lowest achievements** for quick recognition.  
+- Include clear **planned vs actual** comparisons to track deviations.  
+- Highlight **months/quarters above or below average** to draw attention to anomalies in financial performance.
+
+#### **Tables – Monitoring Delay Causes**
+- Present **variances in financial performance** alongside their corresponding **delay causes**.  
+- Enable easy traceability between budget deviation and project execution issues.
+
+#### **Budget Remaining Over Time**
+- Visualize the **remaining budget** across the months to show financial headroom.  
+- Highlight when the buffer starts to narrow, indicating potential risk for overruns.
+
+---
+
+### 🏗️ Dashboard Page 2 – Execution View
+
+#### **KPI Overview**
+- Display overall **project progress percentage** as of November-end.  
+- Compare **planned vs actual progress** in an at-a-glance visual.
+
+#### **Critical Path**
+- Display the **critical path** of the schedule using a Gantt or timeline visualization.  
+- Emphasize dependencies and key bottleneck activities affecting completion.
+
+#### **Current Progress**
+- Compare **planned vs actual timelines** for each major phase.  
+- Highlight slippages and recovery actions to communicate schedule health.
+
+#### **Project Progress by Activity**
+- Break down **progress per activity** (e.g., Civil, Procurement, Installation, Commissioning).  
+- Identify **delayed activities**, their **root causes**, and quantify **delay days or slacks**.  
+- Clearly distinguish between **critical** and **non-critical** paths for better prioritization.
+
+---
+### 🏗️ Dashboard Page 3 – Summary and Strategy for Board Member
+
+#### **Summary**
+- Present the strategy to avoid the delay if possible.  
+- Present the strategy to ensure project within budget constraint.
+
+> 🧩 *Together, these two pages create a holistic view of project performance — financial and operational — enabling the Board to identify risks early, make data-driven decisions, and maintain control over both budget and schedule.*
 
 ## 🧩 Tools & Skills Demonstrated
 - **Tableau** – dashboard design, data blending, calculated fields  
