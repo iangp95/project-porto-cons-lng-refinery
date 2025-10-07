@@ -76,6 +76,31 @@ Without stricter cost governance, acceleration may erode the budget buffer durin
 
 ---
 ![dashboard_project_porto_page-0002](https://github.com/user-attachments/assets/da05fa18-4a5a-417d-b2d8-6ed7ace0009a)
+### 🏗️ Page 2 – Execution View (Critical Path & Progress)
+
+**Pyramid Principle Flow:** *Situation → Complication → Resolution*
+
+**Situation (what the Board already knows):**  
+The project started **February 2024** with planned completion in **November 2024**.  
+Feasibility Study (FS) and Front-End Engineering Design (FEED) are complete.  
+Current progress is **~92–93%**, and forecast completion has shifted to **February 2025 (≈3 months delay)**.
+
+**Complication (the hidden root causes):**
+- **Critical Path:** FS → FEED → Procurement → Civil → Installation → Commissioning  
+- Two key activities are driving delays:
+  - **Procurement:** ~70-day delay (late vendor deliveries)  
+  - **Civil Construction:** ~112-day delay (land acquisition & contractor slippage)  
+- Downstream acceleration (installation, commissioning) helps but cannot erase upstream slippage.  
+- **Risks identified:**
+  - **Schedule Risk:** Commissioning start compressed  
+  - **Cost Risk:** EPC acceleration costs escalate if repeated  
+  - **Quality Risk:** Shortcuts may bypass QA/QC and trigger rework  
+
+**Resolution (what this means):**  
+The project’s overall timeline remains recoverable, but schedule compression has **eroded the safety margin**.  
+Without disciplined sequencing and QA/QC enforcement, acceleration could trade speed for rework — offsetting financial gains.
+
+---
 
 ![dashboard_project_porto_page-0003](https://github.com/user-attachments/assets/0f45402f-ff8b-426f-8f9e-9069edc8a4b9)
 
